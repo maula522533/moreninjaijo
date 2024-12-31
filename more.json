@@ -1,0 +1,20 @@
+{
+  "Exit": [
+    {
+      "icon_promote": "https://lh3.googleusercontent.com/vnM9Nv8HOknRHGFZixFhOfqqtjzHvnIYDtGe9HuyrRidxBrxHzIsNyyagyWlp_3pl2w",
+      "judul_promote": "Sexy Onet",
+      "deskripsi_promote": "Try Now!",
+      "gambar_promote": "https://lh3.googleusercontent.com/vnM9Nv8HOknRHGFZixFhOfqqtjzHvnIYDtGe9HuyrRidxBrxHzIsNyyagyWlp_3pl2w",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.sexyonet.puzzleonet"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Sexy Onet",
+      "image": "https://lh3.googleusercontent.com/vnM9Nv8HOknRHGFZixFhOfqqtjzHvnIYDtGe9HuyrRidxBrxHzIsNyyagyWlp_3pl2w",
+      "link": "https://play.google.com/store/apps/details?id=com.sexyonet.puzzleonet"
+    
+    }
+  ]
+}
